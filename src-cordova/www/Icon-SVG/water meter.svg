@@ -1,0 +1,15 @@
+<svg id="water_meter" data-name="water meter" xmlns="http://www.w3.org/2000/svg" width="23.363" height="23.369" viewBox="0 0 23.363 23.369">
+  <path id="Path_131" data-name="Path 131" d="M137.345,128a9.345,9.345,0,1,0,9.345,9.345A9.346,9.346,0,0,0,137.345,128Zm0,17.523a8.177,8.177,0,1,1,8.177-8.177A8.177,8.177,0,0,1,137.345,145.523Z" transform="translate(-125.664 -125.661)" fill="#fff"/>
+  <path id="Path_132" data-name="Path 132" d="M187.1,200H176.584a.584.584,0,0,0-.584.584v2.336a.584.584,0,0,0,.584.584H187.1a.584.584,0,0,0,.584-.584v-2.336A.584.584,0,0,0,187.1,200Zm-.584,2.336h-9.345v-1.168h9.345Z" transform="translate(-170.159 -192.404)" fill="#fff"/>
+  <path id="Path_133" data-name="Path 133" d="M275.4,266.344a1.754,1.754,0,0,0-1.068-1.068V264h-1.168v1.276a1.752,1.752,0,1,0,2.236,1.068Zm-1.652,1.161a.584.584,0,1,1,.584-.584A.584.584,0,0,1,273.743,267.5Z" transform="translate(-259.141 -251.731)" fill="#fff"/>
+  <path id="Path_134" data-name="Path 134" d="M176,264h1.168v1.168H176Z" transform="translate(-170.159 -251.731)" fill="#fff"/>
+  <path id="Path_135" data-name="Path 135" d="M208,264h1.168v1.168H208Z" transform="translate(-199.823 -251.731)" fill="#fff"/>
+  <path id="Path_136" data-name="Path 136" d="M240,264h1.168v1.168H240Z" transform="translate(-229.487 -251.731)" fill="#fff"/>
+  <path id="Path_137" data-name="Path 137" d="M176,296h1.168v1.168H176Z" transform="translate(-170.159 -281.395)" fill="#fff"/>
+  <path id="Path_138" data-name="Path 138" d="M208,296h1.168v1.168H208Z" transform="translate(-199.823 -281.395)" fill="#fff"/>
+  <path id="Path_139" data-name="Path 139" d="M240,296h1.168v1.168H240Z" transform="translate(-229.487 -281.395)" fill="#fff"/>
+  <path id="Path_140" data-name="Path 140" d="M248,168h1.168v1.168H248Z" transform="translate(-236.903 -162.74)" fill="#fff"/>
+  <path id="Path_141" data-name="Path 141" d="M280,168h1.168v1.168H280Z" transform="translate(-266.566 -162.74)" fill="#fff"/>
+  <path id="Path_142" data-name="Path 142" d="M216,168h1.168v1.168H216Z" transform="translate(-207.239 -162.74)" fill="#fff"/>
+  <path id="Path_143" data-name="Path 143" d="M118.828,104.139h.029a11.585,11.585,0,0,0-.436-1.168h-.037a11.672,11.672,0,0,0-21.4,0h-.037a11.585,11.585,0,0,0-.436,1.168h.029a11.7,11.7,0,0,0,0,7.009H96.51a11.586,11.586,0,0,0,.436,1.168h.037a11.672,11.672,0,0,0,21.4,0h.037a11.585,11.585,0,0,0,.436-1.168h-.029A11.7,11.7,0,0,0,118.828,104.139Zm-11.144,14.018A10.514,10.514,0,1,1,118.2,107.644,10.513,10.513,0,0,1,107.684,118.158Z" transform="translate(-96.003 -95.959)" fill="#fff"/>
+</svg>

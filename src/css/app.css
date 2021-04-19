@@ -1,0 +1,85 @@
+/* app global css */
+.text-btn_color {
+    color: #fff;
+}
+.bg-btn_color {
+    background: #B72A28;
+}
+.text-check_color {
+    color: #fff;
+}
+.bg-check_color {
+    background: #0A182E;
+}
+.text-input_color {
+    color: #0A182E;
+}
+.bg-input_color {
+    background: #fff;
+}
+.text-primary_red {
+    color: #B72A28;
+}
+.bg-primary_red {
+    background: #B72A28;
+}
+.text-money {
+    color: #ff9400;
+}
+.bg-money {
+    background: transparent;
+}
+.header-head,
+.bill-header,
+.billHead,
+.billDetail,
+.billTime,
+.bill-money,
+.bill-pay-text,
+.info-customer-head,
+.info-customer-data,
+.status-light-green,
+.status-light-red,
+.info-consume-head,
+.info-consume-value,
+.info-consume-money,
+.statistic-head,
+.month,
+.year,
+.type-head,
+.login-app-name,
+.login-app-discription,
+.notification-header,
+.bill-head,
+.notification-info-head,
+.notification-info-data,
+.notifications-header,
+.notifications-head,
+.notifications-detail,
+.notifications-time,
+.profile-header,
+.profile-section-header,
+.profile-customer-head,
+.profile-customer-data,
+.profile-meter-head,
+.profile-meter-data,
+.bill-btn-text,
+.report-header,
+.report-overview-head,
+.report-overview-data,
+.heading-text,
+.period,
+.consumed-head,
+.consumed-value,
+.reports-header,
+.reports-head,
+.reports-detail,
+.reports-time,
+.start-app-name,
+.password-header,
+.start-app-discription{
+    font-family: 'Roboto', sans-serif !important;
+}
+*{
+    font-weight: 400;
+}
